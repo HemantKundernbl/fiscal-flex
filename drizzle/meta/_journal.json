@@ -1,0 +1,27 @@
+{
+  "version": "7",
+  "dialect": "postgresql",
+  "entries": [
+    {
+      "idx": 0,
+      "version": "7",
+      "when": 1717563510641,
+      "tag": "0000_cynical_clea",
+      "breakpoints": true
+    },
+    {
+      "idx": 1,
+      "version": "7",
+      "when": 1717605565286,
+      "tag": "0001_swift_unus",
+      "breakpoints": true
+    },
+    {
+      "idx": 2,
+      "version": "7",
+      "when": 1718125181732,
+      "tag": "0002_cynical_photon",
+      "breakpoints": true
+    }
+  ]
+}
